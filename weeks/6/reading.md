@@ -1,0 +1,1 @@
+### [Week 6 Survival Guide](https://github.com/GoLearnToCode/kiei925-spring15/raw/master/files/KIEI925SurvivalWeek6.pdf)
