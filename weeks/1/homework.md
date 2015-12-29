@@ -4,5 +4,5 @@
 - Create an Excel spreadsheet which contains:
     - At least 5 user stories for your app.
     - A domain model for your app – at least 3 models
-- Email your user stories and domain model spreadsheet to Garrett by 11:59pm on Sunday.
+- Email your user stories and domain model spreadsheet to Garrett (garrett.martin@kellogg.northwestern.edu) by 11:59pm on Sunday.
     
