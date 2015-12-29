@@ -1,10 +1,8 @@
-# Due Thursday, April 9, 11:59pm
+# Due next Sunday, January 10, 11:59pm
 
-### Start on Your Final Project
-
-- Pick an app idea
-- Create a folder in your code directory called **week1**
-- Add a README.md file, writing at least 5 user stories for your app - see https://github.com/kiei925-spring15/stories for an example
-- Create a domain model (in Excel) for your app – at least 3 models – and add the Excel file to your **week1** folder
-- Commit and push your changes so that I can grab your user stories and domain model from ```http://github.com/<your username>/week1```
+- Pick an app idea (you're not committing to it for the final just yet... that will happen by Week 5)
+- Create an Excel spreadsheet which contains:
+    - At least 5 user stories for your app.
+    - A domain model for your app – at least 3 models
+- Email your user stories and domain model spreadsheet to Garrett by 11:59pm on Sunday.
     
