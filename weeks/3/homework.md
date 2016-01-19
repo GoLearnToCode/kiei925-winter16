@@ -1,14 +1,10 @@
-# Due Thursday, April 23, 11:59pm
+# Due Sunday, 11:59pm
 
 ### Final project application setup
 
-In your ```code``` directory, create the Rails application for your final project using ```rails new final```. This will create a new folder called ```final``` in your ```code``` directory – add this folder to Github.
+Begin work on what will ultimately become your final project. Create a new workspace, cloning it from https://github.com/kiei925-winter16/rails-template
 
-Add the following line to your ```Gemfile```:
-
-```gem 'ez'```
-
-Then, from your command prompt – Terminal (Mac) or Command Prompt with Ruby on Rails (Windows) – issue the following command from within your ```code/final``` directory:
+Then, from your command prompt, issue the following command:
 
 ```bundle install```
 
