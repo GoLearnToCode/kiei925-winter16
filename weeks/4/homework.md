@@ -1,4 +1,4 @@
-# Due Thursday, April 30, 11:59pm
+# Due Sunday, 11:59pm
 
 ### Bringing the CRUD and web world together
 
