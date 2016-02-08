@@ -1,4 +1,4 @@
-# Due Thursday, May 14, 11:59pm
+# Due Sunday, 11:59pm
 
 ### Associations in your views
 
