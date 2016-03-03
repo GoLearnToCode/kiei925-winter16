@@ -26,4 +26,4 @@ Up to another 5 points can be awarded based on the instructor's subjective evalu
 - Adhere to best practices in modern software development (e.g. DRY) by eliminating duplicate code in your application through the use of view partials and before_actions.
 - Proper use of a CSS framework like Bootstrap (grid usage, form elements, or other components). Use Bootstrap alerts to inform users of state changes (e.g. successful log-in, database record creation).
 - Populate the database via CSV import or load data from an external web service using RubyGems.Note: Using the APIs we've used in class (Forecast.io, Spotify, OMDB) does not qualify unless it is materially enhances your project.
-- Deploy your app to Heroku. If working in a group, only one live deployment is required.
+- Deploy your app to Heroku. If working in a group, only one live deployment is required. Include your URL in your submission (i.e. your email to Garrett) for full credit.
