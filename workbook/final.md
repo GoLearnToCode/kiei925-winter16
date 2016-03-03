@@ -1,6 +1,6 @@
 # Final Project Requirements
 
-Every student is required to turn in a Ruby on Rails web application. You're highly encouraged to work in study groups, but each student must turn in their own project.
+Every student is required to turn in a Ruby on Rails web application. You're highly encouraged to work in groups, but each student must turn in their own project.
 
 **Due Date: Friday, March 18, 11:59pm**
 
