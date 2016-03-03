@@ -2,25 +2,13 @@
 
 Every student is required to turn in a Ruby on Rails web application. You're highly encouraged to work in study groups, but each student must turn in their own project.
 
-**Due Date: Monday, June 8, 11:59pm**
+**Due Date: Friday, March 18, 11:59pm**
 
 Late work cannot be accepted.
 
 ### How To Turn In Your Project
 
-Your final project must be contained in a repository named ***final*** inside of your GitHub account.
-
-### Choose a Project
-
-You can choose your own idea (preferred) or you can choose from one of these idea templates. Please inform me of your project idea by Week 5.
-
-The three idea templates are:
-
-**Social Sharing Site.** Something like Pinterest. Users can sign up for accounts, submit content, content is categorized or tagged, they "follow" other users, and can comment on other user's submissions.
-
-**Content Management System.** Like Tumblr, or a newspaper publication service. Users sign up for an account as a publisher or reader. A publisher can post articles of various media types: text, images, videos, and maps, and are organized into sections based on a category, tag, publish date, or some other criteria. Readers can post comments anonymously or under their account.
-
-**Event Organizer.** Like Evite or Meetup.com. A way to invite groups of people to events at various locations.
+Your final project must be contained in a workspace in your C9 account. Please send an email to Garrett when your project is ready for review, and include the name of your final project workspace.
 
 ### Web App Grading Criteria
 
@@ -28,16 +16,14 @@ Projects can achieve a maximum of 25 points.
 
 Each requirement is worth up to 4 points. Earn up to 20 points by fulfilling any 5 requirements from the list below.
 
-Up to another 5 points can be awarded based on the intructor's subjective evaluation, based on code readability, application of standard Ruby idioms where appropriate, and overall execution.
+Up to another 5 points can be awarded based on the instructor's subjective evaluation, based on code readability, application of standard Ruby idioms where appropriate, and overall execution.
 
 ### Requirements Menu
 
-- Implement at least one many-to-many association
-- Implement at least three models
-- Demonstrate best-practice use of Rails MVC architecture
-- Allow users to sign up, sign in, and sign out
-- Populate the database via seed data
-- Mashup data from an external web service (maps, social networks, open government data). Note: Using the built-in weather functionality does not qualify unless it is materially enhances your project.
-- Use at least three validation rules
-- Proper use of a CSS framework like Bootstrap or Foundation (grid usage, form elements, or other components)
-- Deploy your app to a live internet URL
+- Implement at least three models, with declarative associations (i.e. has_many, belongs_to), and at least one many-to-many association. Use at least five model validation rules.
+- Using resource-based routing (i.e. the golden seven), implement at least three resources.
+- Authentication and authorization. Allow users to sign up, sign in, and sign out. Protect sensitive parts of your application through the use of a before_action. Implement role-based authorization to allow different types of users to access different parts of your application.
+- Adhere to best practices in modern software development (e.g. DRY) by eliminating duplicate code in your application through the use of view partials and before_actions.
+- Proper use of a CSS framework like Bootstrap (grid usage, form elements, or other components). Use Bootstrap alerts to inform users of state changes (e.g. successful log-in, database record creation).
+- Populate the database via CSV import or load data from an external web service using RubyGems.Note: Using the APIs we've used in class (Forecast.io, Spotify, OMDB) does not qualify unless it is materially enhances your project.
+- Deploy your app to Heroku. If working in a group, only one live deployment is required.
