@@ -4,11 +4,11 @@ Every student is required to turn in a Ruby on Rails web application. You're hig
 
 **Due Date: Friday, March 18, 11:59pm**
 
-Late work cannot be accepted.
+Late work will not be accepted.
 
 ### How To Turn In Your Project
 
-Your final project must be contained in a workspace in your C9 account. Please send an email to Garrett when your project is ready for review, and include the name of your final project workspace.
+Your final project must be contained in a workspace in your C9 account. Please send an email to Garrett when your project is ready for review; include the name of your final project workspace and your live URL (if applicable).
 
 ### Web App Grading Criteria
 
